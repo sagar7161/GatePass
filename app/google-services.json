@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936082905717",
+    "firebase_url": "https://gatepass-5251a.firebaseio.com",
+    "project_id": "gatepass-5251a",
+    "storage_bucket": "gatepass-5251a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936082905717:android:9e5dcd13c69c454e",
+        "android_client_info": {
+          "package_name": "com.example.gatepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936082905717-20mjn4o2h47ctovjbcp1djp9ljtdlcrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gatepass",
+            "certificate_hash": "f2786ae6379a5e50555e196e08c8f09e42c2df13"
+          }
+        },
+        {
+          "client_id": "936082905717-ppoen596k87fv8c895rsjajs6kd29p3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQcIcXj2W3Gpn0Fl3xFpe7jfGrsV9G1b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936082905717-ppoen596k87fv8c895rsjajs6kd29p3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
